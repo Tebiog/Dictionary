@@ -1,0 +1,14 @@
+E:\dictionaries\dictionaries\obj\Debug\netcoreapp3.1\dictionaries.csproj.AssemblyReference.cache
+E:\dictionaries\dictionaries\obj\Debug\netcoreapp3.1\dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+E:\dictionaries\dictionaries\obj\Debug\netcoreapp3.1\dictionaries.AssemblyInfoInputs.cache
+E:\dictionaries\dictionaries\obj\Debug\netcoreapp3.1\dictionaries.AssemblyInfo.cs
+E:\dictionaries\dictionaries\obj\Debug\netcoreapp3.1\dictionaries.csproj.CoreCompileInputs.cache
+E:\dictionaries\dictionaries\bin\Debug\netcoreapp3.1\dictionaries.exe
+E:\dictionaries\dictionaries\bin\Debug\netcoreapp3.1\dictionaries.deps.json
+E:\dictionaries\dictionaries\bin\Debug\netcoreapp3.1\dictionaries.runtimeconfig.json
+E:\dictionaries\dictionaries\bin\Debug\netcoreapp3.1\dictionaries.runtimeconfig.dev.json
+E:\dictionaries\dictionaries\bin\Debug\netcoreapp3.1\dictionaries.dll
+E:\dictionaries\dictionaries\bin\Debug\netcoreapp3.1\dictionaries.pdb
+E:\dictionaries\dictionaries\obj\Debug\netcoreapp3.1\dictionaries.dll
+E:\dictionaries\dictionaries\obj\Debug\netcoreapp3.1\dictionaries.pdb
+E:\dictionaries\dictionaries\obj\Debug\netcoreapp3.1\dictionaries.genruntimeconfig.cache
